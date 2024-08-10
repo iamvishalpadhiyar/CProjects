@@ -22,7 +22,7 @@ This repository contains my c language projects
 
 3. Tic-Tac-Toe Game :
 -> Objective : Develop Tic-Tac-Toe game for two player.
--> Feature :
+-> Features :
    Display 3*3 grid for gameplay.
    Alternate turns between two player(X and O).
    Check win conditions or draw condition after each moves.
@@ -38,3 +38,13 @@ This repository contains my c language projects
    Display current list of tasks.
    Managing the list of task until user decides to exits.
 
+
+5. Bank Account Management :
+-> Objective : Develop to manage user's bank account.
+-> Features :
+   Offer to user for registration and login.
+   Take input form user name,password,and balance.
+   Allow user to perform operation.
+   Operations : Deposite , Withdraw and check Balance.
+   Offer an option to logout and go to main menu.
+   
