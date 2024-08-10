@@ -30,3 +30,11 @@ This repository contains my c language projects
    Offers an option to play again.
 
 
+4. To-Do List (File Operations):
+-> Objective : Basic to-do list applications.
+-> Features :
+   Allows users add tasks to the list.
+   Remove the tasks.
+   Display current list of tasks.
+   Managing the list of task until user decides to exits.
+
